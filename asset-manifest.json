@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react_doodler/static/css/main.cf0e2f67.chunk.css",
+    "main.js": "/react_doodler/static/js/main.e4a8157c.chunk.js",
+    "main.js.map": "/react_doodler/static/js/main.e4a8157c.chunk.js.map",
+    "runtime-main.js": "/react_doodler/static/js/runtime-main.10299510.js",
+    "runtime-main.js.map": "/react_doodler/static/js/runtime-main.10299510.js.map",
+    "static/js/2.38fc4214.chunk.js": "/react_doodler/static/js/2.38fc4214.chunk.js",
+    "static/js/2.38fc4214.chunk.js.map": "/react_doodler/static/js/2.38fc4214.chunk.js.map",
+    "index.html": "/react_doodler/index.html",
+    "precache-manifest.f717f94cc4ee097b5af37f96aba2b125.js": "/react_doodler/precache-manifest.f717f94cc4ee097b5af37f96aba2b125.js",
+    "service-worker.js": "/react_doodler/service-worker.js",
+    "static/css/main.cf0e2f67.chunk.css.map": "/react_doodler/static/css/main.cf0e2f67.chunk.css.map",
+    "static/js/2.38fc4214.chunk.js.LICENSE.txt": "/react_doodler/static/js/2.38fc4214.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/react_doodler/static/media/doodlert.cfd3b629.png",
+    "static/media/logo.svg": "/react_doodler/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10299510.js",
+    "static/js/2.38fc4214.chunk.js",
+    "static/css/main.cf0e2f67.chunk.css",
+    "static/js/main.e4a8157c.chunk.js"
+  ]
+}
